@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Website and 'Social' Media:
 [<img align="left" alt="alyakin314.github.io" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="anton-alyakin | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br/><br/>
+<br/>
 
 ### Languages and other Skills 
 ##### Python    <img align="left" alt=":snake:" width="15px" src="https://cdn.shopify.com/s/files/1/1061/1924/products/Snake_Iphone_Emoji_JPG_grande.png?v=1571606114" />

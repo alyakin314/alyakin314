@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="anton-alyakin | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br/>
 
-### Languages and other Skills 
+### Languages and Skills 
 ##### Python    <img align="left" alt=":snake:" width="15px" src="https://cdn.shopify.com/s/files/1/1061/1924/products/Snake_Iphone_Emoji_JPG_grande.png?v=1571606114" /> & Data Science Stack
 <img align="left" alt="Python" width="30px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
 <img align="left" alt="pandas" width="30px" src="https://cdn.shortpixel.ai/spai/q_lossy+ret_img/https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" />
@@ -35,14 +35,11 @@ Here are some ideas to get you started:
 <img align="left" alt="docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <br/>
 
-##### Other Languages (in order of proficiency)
+##### Other Languages and Skills
 <img align="left" alt="R" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="left" alt="MATLAB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
 <img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<br/>
-
-##### Other Skills
 <img align="left" alt="linux" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="bash" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 <img align="left" alt="vim" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />

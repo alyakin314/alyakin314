@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <img align="left" alt="pandas" width="50px" src="https://cdn.shortpixel.ai/spai/q_lossy+ret_img/https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" />
 <img align="left" alt="scikit-learn" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
 <img align="left" alt="TensorFlow" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <img align="left" alt="R" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="left" alt="MATLAB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
 <img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />

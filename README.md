@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Connect with me:
+[<img align="left" alt="alyakin314.github.io" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="anton-alyakin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 ### Languages and other Skills 
 ##### Python    <img align="left" alt=":snake:" width="20px" src="https://cdn.shopify.com/s/files/1/1061/1924/products/Snake_Iphone_Emoji_JPG_grande.png?v=1571606114" />
 <img align="left" alt="Python" width="50px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
@@ -47,6 +51,5 @@ Here are some ideas to get you started:
 <img align="left" alt="emacs" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png" />
 <img align="left" alt="latex" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
 
-### Stats
-<img align="left" alt="Anton Alyakin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alyakin314&show_icons=true&hide_border=true" />
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+[website]: http://saad-hassan.com/
+[linkedin]: https://www.linkedin.com/in/anton-a-64a58a9b

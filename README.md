@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 -->
 
 ### Website and 'Social' Media:
-[<img align="left" alt="alyakin314.github.io" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="anton-alyakin | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Personal Website" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Google Schoalr" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][google-scholar]
 <br/>
 
 ### Languages and Skills 
@@ -48,3 +49,4 @@ Here are some ideas to get you started:
 
 [website]: http://alyakin314.github.io
 [linkedin]: https://www.linkedin.com/in/anton-a-64a58a9b
+[google-scholar]: https://scholar.google.com/citations?user=5rDtuRIAAAAJ

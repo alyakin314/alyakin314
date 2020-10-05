@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Personal Website" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Google Schoalr" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][google-scholar]
-<br/>
+<br/><br/>
 
 ### Languages and Skills 
 ##### Python    <img align="left" alt=":snake:" width="18px" src="https://cdn.shopify.com/s/files/1/1061/1924/products/Snake_Iphone_Emoji_JPG_grande.png?v=1571606114" /> & Data Science Stack
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <img align="left" alt="docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="PostgreSQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<br/>
+<br/><br/>
 
 ##### Other Languages and Skills <img align="left" alt=":hammer-and-wrench:" width="18px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/81/hammer-and-wrench_1f6e0.png" />
 <img align="left" alt="R" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
